@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mandu the amazing cat",
+    "desc": "Cute and amazing cat",
+    "type": "Cat",
+    "age": 10
+  },
+  {
+    "name": "Mia the black cat",
+    "desc": "The black and fast cat",
+    "type": "Cat",
+    "age": 10
+  },
+  {
+    "name": "Leeloo the growing dog",
+    "desc": "Cute and loving Dog",
+    "type": "Dog",
+    "age": 3
+  },
+  {
+    "name": "Toothless the trained dragon",
+    "desc": "A pet that is one of a kind",
+    "type": "Dragon",
+    "age": 14
+  },
+  {
+    "name": "ScoobyDoo the wondering dog",
+    "desc": "The old legendary dog",
+    "type": "Dog",
+    "age": 58
+  },
+  {
+    "name": "Horsey the horsing horse",
+    "type": "Horse",
+    "desc": "The protective horse",
+    "age": 9
+  }
+]
